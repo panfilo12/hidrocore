@@ -12,7 +12,7 @@ and open the template in the editor.
     <body>
        
         <a href="login.php?" >
-                       añadir<img src="img/cart.png">
+                IR AL MENU<img src="img/cart.png">
         
     </body>
 </html>
